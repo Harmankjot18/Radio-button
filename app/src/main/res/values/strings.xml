@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">radiobutton</string>
+    <string name="enter_gender">Gender:</string>
+    <string name="others">Others</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="he">He</string>
+    <string name="she">She</string>
+
+</resources>
